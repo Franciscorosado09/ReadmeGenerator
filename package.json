@@ -1,0 +1,26 @@
+{
+  "name": "readme-creator",
+  "version": "1.0.0",
+  "description": "\"creates basic readme file\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"success\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Franciscorosado09/readme.git"
+  },
+  "keywords": [
+    "\"readme\""
+  ],
+  "author": "Francisco Rosado",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Franciscorosado09/readme/issues"
+  },
+  "homepage": "https://github.com/Franciscorosado09/readme#readme",
+  "dependencies": {
+    "inquire": "^0.4.8",
+    "inquirer": "^7.3.3"
+  }
+}
