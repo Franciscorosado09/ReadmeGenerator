@@ -1,9 +1,9 @@
 
-  # **g**
-  License: [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  # **MeanGirls Rule**
+  License: [![License: IPL 1.0](https://img.shields.io/badge/License-IPL%201.0-blue.svg)](https://opensource.org/licenses/IPL-1.0)
 
   # **Description**
-  * g
+  * The application brings together all the meangirls. 
 
 
   # ** Table of Contents**
@@ -20,31 +20,31 @@
 
   # **License**
 
-  *MIT
+  *IBM
 
  
   # **Dependencies**
-  List of required installations prior to download: g
+  List of required installations prior to download: node.js, imagination
   
   
   # **Application**
-  *g is on version g
+  *MeanGirls Rule is on version 2.0
 
-  *Link to Application:  
-  *ID to Github Repo: g
+  *Link to Application: www.meangirls.fetch 
+  *ID to Github Repo: cadyherongit
   
   # **Contributors**
-  Author of README g
+  Author of README Cady Heron
 
   List of Contributors to application:
-    *  gg
+    *  Karen Smith, Gretchen Weiners, and Regina George
     
   
   # **FAQ**
   Contact info:
-    *README Author: g
-    *Email: 
-    *Github Repo ID: g
+    *README Author: Cady Heron
+    *Email: Cady@example.com
+    *Github Repo ID: cadyherongit
   
   
   

@@ -23,9 +23,9 @@ SO THAT I can quickly create a professional README for a new project
 
 ## Links
 
-link to github: https://github.com/Franciscorosado09/readmeGenerator
+link to github: https://github.com/Franciscorosado09/ReadmeGenerator
 
-Link to video:
+Link to video: https://drive.google.com/file/d/1zcKFswqg1B1mg7wqxRYoqspIPxYJ_xX4/view
 
 
 
