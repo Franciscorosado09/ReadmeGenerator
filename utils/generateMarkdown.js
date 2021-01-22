@@ -92,7 +92,7 @@ function generateMarkdown(data) {
   *${data.title} is on version ${data.version}
 
   *Link to Application: ${data.link} 
-  *Link to Repo: ${data.gitRepo}
+  *ID to Github Repo: ${data.gitRepo}
   
   # **Contributors**
   Author of README ${data.author}
@@ -105,7 +105,7 @@ function generateMarkdown(data) {
   Contact info:
     *README Author: ${data.author}
     *Email: ${data.email}
-    *Application Repo: ${data.gitRepo}
+    *Github Repo ID: ${data.gitRepo}
   
   
   `; 

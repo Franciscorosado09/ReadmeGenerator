@@ -45,7 +45,7 @@ inquirer
     {
       type: "input",
       name: "gitRepo",
-      message: "Please provide your repo url.",
+      message: "Please provide your Github ID",
     },
     {
       type: "input",
