@@ -1,9 +1,9 @@
 
-  # **WEB APPLICATION**
-  License: [![License: IPL 1.0](https://img.shields.io/badge/License-IPL%201.0-blue.svg)](https://opensource.org/licenses/IPL-1.0)
+  # **g**
+  License: [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   # **Description**
-  * It works with the internet to give an awesome and cool experience. We want the world to use this amazing product and hope we can scale it to the masses.
+  * g
 
 
   # ** Table of Contents**
@@ -16,33 +16,35 @@
   
   
   
+  
 
   # **License**
 
-  # IBM
+  *MIT
+
  
   # **Dependencies**
-  List of required installations prior to download: imagination
+  List of required installations prior to download: g
   
   
   # **Application**
-  *WEB APPLICATION is on version 2.0
+  *g is on version g
 
-  *Link to Application: www.GAMECHANGER.blam 
-  *Link to Repo: {data.gitRepo}
+  *Link to Application:  
+  *ID to Github Repo: g
   
   # **Contributors**
-  Author of README Francis Hien
+  Author of README g
 
   List of Contributors to application:
-    *  Cady Heron, Regina George, Gretchen Wieners, Karen Smith, Janis Ian
+    *  gg
     
   
   # **FAQ**
   Contact info:
-    *README Author: Francis Hien
-    *Email: FrancisH@example.com
-    *Application Repo: www.gitREPOpage.blam
+    *README Author: g
+    *Email: 
+    *Github Repo ID: g
   
   
   

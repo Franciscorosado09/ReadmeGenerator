@@ -82,7 +82,7 @@ function generateMarkdown(data) {
   # **License**
 
   *${data.license}
-  * More info visit site: ${renderLicenseLink(license)}
+
  
   # **Dependencies**
   List of required installations prior to download: ${data.dependencies}
